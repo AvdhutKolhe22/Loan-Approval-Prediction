@@ -25,6 +25,6 @@ This project predicts whether a loan application will be approved or rejected us
 - Model comparison
 - Visualization of results
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository
 2. Install requirements:
